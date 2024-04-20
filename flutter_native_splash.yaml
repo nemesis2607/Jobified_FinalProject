@@ -1,0 +1,10 @@
+# flutter_native_splash-development.yaml
+flutter_native_splash:
+  color: "#ffffff"
+  image: assets/logobg.jpg
+
+  android_12:
+    color: "#ffffff"
+    image: assets/logobg.jpg
+
+  web: false
